@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721135046075",
+    "project_id": "logistic-project-f3028",
+    "storage_bucket": "logistic-project-f3028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721135046075:android:4fcdf3ff758ca7fec0489e",
+        "android_client_info": {
+          "package_name": "com.example.welecome_login_out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMbO6V1e5mqoQHObN2dpycyCpsSsoTf2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
